@@ -49,3 +49,9 @@ GPT4oでは答えられない
 ![alt text](image-16.png)
 
 ![alt text](image-17.png)
+
+
+学習させたモデルをデプロイ
+![alt text](image-18.png)
+
+# 学習後モデルで動作確認
