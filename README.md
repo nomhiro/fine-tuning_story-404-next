@@ -14,8 +14,20 @@
 - 氷川 朱紀
   - 大人しく一人を好む性格
 
+### 素のGPT4oに聞いてみる
+
 GPT4oでは答えられない
-![alt text](image-1.png)
+![alt text](image-10.png)
+
+![alt text](image-11.png)
+
+![alt text](image-12.png)
+
+![alt text](image-13.png)
+
+![alt text](image-14.png)
+
+### トレーニング開始
 
 ![alt text](image-5.png)
 
@@ -27,3 +39,13 @@ GPT4oでは答えられない
 
 
 ![alt text](image-8.png)
+
+![alt text](image-9.png)
+完了！
+![alt text](image-15.png)
+
+
+メトリック
+![alt text](image-16.png)
+
+![alt text](image-17.png)
